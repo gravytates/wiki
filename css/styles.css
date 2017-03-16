@@ -1,0 +1,27 @@
+.rightnav {
+  float: right;
+  /*width: 30%;*/
+  /*position: relative;*/
+  /*display: inline-block;*/
+}
+
+.leftnav {
+  float: left;
+  /*width: 70%;*/
+}
+.navbar-form navbar-right {
+  height: 80%;
+}
+
+/** {
+  border: black 1px solid
+}*/
+
+/*.navbar-form navbar-right {
+  float: right;
+  max-width: 20em;
+  min-width: 5em;
+}*/
+.portals {
+  padding-top: 30px;
+}
