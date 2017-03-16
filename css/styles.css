@@ -43,7 +43,7 @@
   padding-bottom: 120px;
   padding-left: 15px;
   z-index: 1;
-  
+
 
 }
 
@@ -54,4 +54,20 @@
 #today {
   background-color: rgba(191, 128, 255, 0.3);
 
+}
+
+#green {
+  background-color: #e6ffe6;
+}
+
+#blue {
+  background-color: #e6f3ff;
+}
+
+#purple {
+  background-color: #ffe6ff;
+}
+
+#text {
+  max-width: 200px;
 }
